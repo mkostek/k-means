@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\kmeans\kmeans\obj\Debug\kmeans.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\kmeans\kmeans\bin\Debug\kmeans.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\kmeans\kmeans\bin\Debug\kmeans.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\kmeans\kmeans\bin\Debug\kmeans.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\kmeans\kmeans\obj\Debug\kmeans.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\kmeans\kmeans\obj\Debug\kmeans.pdb
